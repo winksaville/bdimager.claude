@@ -14,7 +14,8 @@
       "Bash(uv --version)",
       "Bash(jj bookmark *)",
       "Bash(uv lock *)",
-      "Bash(uv sync *)"
+      "Bash(uv sync *)",
+      "Bash(uv run *)"
     ]
   }
 }
