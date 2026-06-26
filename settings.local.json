@@ -5,7 +5,16 @@
       "Bash(jj st *)",
       "Bash(jj git *)",
       "Bash(jj diff *)",
-      "Bash(vc-x1 push *)"
+      "Bash(vc-x1 push *)",
+      "Read(//home/wink/data/prgs/nps-gnc/**)",
+      "Read(//home/wink/data/prgs/nps-gnc/fc/**)",
+      "Bash(grep -rln \"imglib\\\\|imgcfg\\\\|devsafe\\\\|capture\\\\|build_image\\\\|imager\" notes/ README.md ARCHITECTURE.md fc-config.toml justfile)",
+      "Bash(find . -path ./.venv -prune -o -name \"test_*.py\" -print)",
+      "Bash(find . -path ./.venv -prune -o -name \"*_test.py\" -print)",
+      "Bash(uv --version)",
+      "Bash(jj bookmark *)",
+      "Bash(uv lock *)",
+      "Bash(uv sync *)"
     ]
   }
 }
