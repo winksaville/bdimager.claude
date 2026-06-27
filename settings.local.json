@@ -17,7 +17,8 @@
       "Bash(uv sync *)",
       "Bash(uv run *)",
       "Bash(vc-x1 validate-todo *)",
-      "Bash(echo \"validate-todo exit $?\")"
+      "Bash(echo \"validate-todo exit $?\")",
+      "Bash(just *)"
     ]
   }
 }
